@@ -4,5 +4,5 @@ This configuration allows you to lint, build, test and deploy (coming soon) you 
 
 ## Work in progress
 
-+ Deploy APK files to GCS ou Play Store
++ Deploy APK files to GCS, S3 or Play Store
 + Build signed APKs
